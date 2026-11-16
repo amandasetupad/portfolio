@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Abstract portrait plate">
+  <rect width="800" height="1000" fill="#22242B"/>
+  <rect x="78" y="70" width="520" height="860" fill="#A9C9C2"/>
+  <rect x="168" y="132" width="560" height="760" fill="#E9E8E9"/>
+  <rect x="168" y="132" width="26" height="520" fill="#702D43"/>
+  <circle cx="640" cy="250" r="74" fill="#438F89"/>
+  <rect x="250" y="430" width="360" height="2" fill="#22242B" opacity="0.35"/>
+  <path d="M90 90 H150 M90 90 V150 M710 90 H650 M710 90 V150 M90 910 H150 M90 910 V850 M710 910 H650 M710 910 V850" fill="none" stroke="#E9E8E9" stroke-width="2"/>
+</svg>

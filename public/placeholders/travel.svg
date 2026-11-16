@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Abstract stand-in for a travel photograph">
+  <rect width="1200" height="900" fill="#A9C9C2"/>
+  <rect x="0" y="520" width="1200" height="380" fill="#22242B"/>
+  <rect x="0" y="500" width="1200" height="20" fill="#E9E8E9"/>
+  <circle cx="280" cy="250" r="110" fill="#702D43"/>
+  <path d="M80 500 C 260 420, 420 560, 640 470 S 980 390, 1160 500" fill="none" stroke="#438F89" stroke-width="8"/>
+</svg>

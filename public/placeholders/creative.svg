@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-label="Abstract stand-in for a creative photograph">
+  <rect width="1000" height="800" fill="#22242B"/>
+  <circle cx="180" cy="140" r="260" fill="#A9C9C2"/>
+  <rect x="380" y="180" width="520" height="300" fill="#702D43"/>
+  <rect x="460" y="420" width="360" height="260" fill="#E9E8E9"/>
+  <path d="M80 700 H920" stroke="#438F89" stroke-width="6"/>
+</svg>

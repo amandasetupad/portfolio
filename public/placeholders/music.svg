@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Abstract stand-in for a music photograph">
+  <rect width="900" height="900" fill="#22242B"/>
+  <circle cx="450" cy="450" r="300" fill="none" stroke="#E9E8E9" stroke-width="2"/>
+  <circle cx="450" cy="450" r="210" fill="none" stroke="#438F89" stroke-width="10"/>
+  <circle cx="450" cy="450" r="90" fill="#702D43"/>
+  <rect x="430" y="80" width="8" height="740" fill="#E9E8E9" opacity="0.35"/>
+</svg>
